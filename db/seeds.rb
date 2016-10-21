@@ -1,0 +1,6 @@
+Quote.create(content: "If at first you don't succeed, then skydiving definitely isn't for you.")
+Quote.create(content: "Life is a bitch")
+Quote.create(content: "Uuuuuuuuur AHHHhhhhrrrr Uhhhr Assssshgg -Chewbacca")
+Quote.create(content: "Whenever I'm about to do something, I think, would an idiot do that? And if that would, I do not do that thing.")
+Quote.create(content: "Better days are coming. They are called: Saturday and Sunday.")
+Quote.create(content: "Maybe try taking a nap?")
