@@ -1,0 +1,22 @@
+.btn-large{
+  /*background-color: black;*/
+}
+#mybtn{
+  float: right;
+}
+.overright{
+  z-index: 1;
+
+}
+
+img{
+  position: absolute;
+  z-index: -1;
+}
+
+.quote{
+  color: white;
+  font-size: 45px;
+  width: 500px;
+  margin-left: 10px;
+}
